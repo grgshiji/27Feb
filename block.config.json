@@ -1,0 +1,16 @@
+{
+  "name": "27Feb",
+  "type": "package",
+  "blockId": "EzLesu8OwGy9kB17VUQ96",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_27Feb"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
