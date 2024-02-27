@@ -1,0 +1,16 @@
+{
+  "name": "27Feb",
+  "type": "package",
+  "blockId": "EzLesu8OwGy9kB17VUQ96",
+  "source": {
+    "https": "https://github.com/grgshiji/27Feb.git",
+    "ssh": "git@github.com:grgshiji/27Feb.git",
+    "branch": "block_27Feb"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
